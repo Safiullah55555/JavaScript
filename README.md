@@ -97,6 +97,7 @@ Recommended order:
 
    * Don’t run everything at once
    * Remove comments from code line you want to run in console.
+   * Add html file, link it and run it in web console
    * Read comments carefully
 
 2. Then read `actual-comparisons.js`
